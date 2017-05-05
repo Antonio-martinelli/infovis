@@ -1,0 +1,15 @@
+h1 {text-align: center;
+	font-family: fantasy;
+}
+
+body {
+	background-color: #FFCF79;
+}
+
+
+#canvas {
+
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
