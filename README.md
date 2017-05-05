@@ -1,1 +1,2 @@
-# infovis
+# Infovis Project
+Antonio Martinelli
